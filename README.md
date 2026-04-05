@@ -1,6 +1,6 @@
 # VeraPlus
 
-A chrome extension to enchance your Veracross experinece. Download at https://chromewebstore.google.com/detail/veraplus-customize-veracr/niakgglobhndmjnhjoadhlfgknjmikpn?hl=en
+A chrome web extension to enhance your Veracross experinece. No longer updated.
 
 ## Items Included
 
@@ -11,7 +11,7 @@ A chrome extension to enchance your Veracross experinece. Download at https://ch
 
 ## To Install
 
-1. Go to the chrome webstore
-2. Search for VeraPlus
-3. Click "Add to Chrome"
-4. Allow VeraPlus to change data on Veracross
+1. Download repository
+2. Go to chrome://extensions/
+3. Turn on 'Developer Mode' in the top right corner
+4. Select 'Load Unpacked' and upload the files
