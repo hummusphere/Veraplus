@@ -1,17 +1,14 @@
-# VeraPlus
+###VeraPlus
+A Chrome web extension to enhance your Veracross experience. ! !!! This project is no longer maintained.
 
-A chrome web extension to enhance your Veracross experinece. No longer updated.
+##Items Included
+To-Do List
+Custom Backgrounds
+Customizable Colors
+Much More!
 
-## Items Included
-
-1. To-Do List
-2. Custom Backgrounds
-3. Customaziable colors
-4. Much More!
-
-## To Install
-
-1. Download repository
-2. Go to chrome://extensions/
-3. Turn on 'Developer Mode' in the top right corner
-4. Select 'Load Unpacked' and upload the files
+##Installation
+Download the repository
+Go to `chrome://extensions/`
+Turn on "Developer Mode" in the top right corner
+Select "Load Unpacked" and upload the files
